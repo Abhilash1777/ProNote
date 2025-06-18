@@ -10,7 +10,7 @@
 
 <h2 style="color:#6a1b9a;">🚀 Live Demo</h2>
 <p>
-🔗 <a href="https://your-live-link.com" target="_blank"><strong>Launch ProNote Now</strong></a>
+🔗 <a href="https://abhilash1777.github.io/ProNote/" target="_blank"><strong>Launch ProNote Now</strong></a>
 </p>
 
 <hr style="border: 1px solid #6a1b9a;">
@@ -33,14 +33,15 @@
 
 <h2 style="color:#1e88e5;">📦 How to Use Locally</h2>
 <pre style="background:#f5f5f5; padding:10px; border-radius:6px;">
+  
 1️⃣ Clone this repo
-   git clone https://github.com/your-username/ProNote.git
+      git clone https://github.com/Abhilash1777/ProNote.git
 
 2️⃣ Enter the project folder
-   cd ProNote
+     cd ProNote
 
 3️⃣ Run the app
-   Open index.html in your preferred browser
+     Open index.html in your preferred browser
 </pre>
 
 <hr style="border: 1px solid #1e88e5;">
