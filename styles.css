@@ -3,7 +3,10 @@ body {
   margin: 0;
   padding: 20px;
   transition: background 0.3s ease;
+  background-color: #f0f4f8; /* soft light blue-gray */
 }
+
+
 
 .container {
   max-width: 1000px;
@@ -58,6 +61,8 @@ textarea {
   overflow: auto;
   margin-top: 15px;
   resize: vertical;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+
 }
 
 .preview.dark {
